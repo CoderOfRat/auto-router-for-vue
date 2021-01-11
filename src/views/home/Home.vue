@@ -9,7 +9,7 @@
       <h1>路由自动生成示例</h1>
     </el-header>
     <el-container>
-      <el-aside width="200px">
+      <el-aside width="380px">
         <el-menu
           :default-active="activeIndex"
           class="el-menu-demo"
