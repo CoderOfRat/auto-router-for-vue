@@ -1,5 +1,6 @@
 {
   "name": "auto-router-vue",
+  "author": "CoderOfRat",
   "version": "0.1.0",
   "private": true,
   "scripts": {

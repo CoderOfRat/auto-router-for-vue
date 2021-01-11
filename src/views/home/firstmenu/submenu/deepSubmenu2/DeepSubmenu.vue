@@ -1,13 +1,15 @@
 <template>
-  <div class="firstMenu">
-    <h3>目前您处于 第1级菜单 下方为第二级视图部分</h3>
-    <router-view></router-view>
+  <div class="deepMenuitem">
+     <h3>目前您处于 第3级菜单视图 此处为最后一级视图展示内容</h3>
+     <div class="content">
+       内容主体2
+     </div>
   </div>
 </template>
 
 <script>
 export default {
-  name: "FirstMenu",
+  name: "deepSubmenu2",
   data() {
     return {
       
